@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/PLATYPUSCO007/ejercicio_tdd.svg?branch=master)](https://travis-ci.org/PLATYPUSCO007/ejercicio_tdd)
 ### Venta de items
 
 El objetivo de este dojo es implementar parcialmente el modelo precios y costos para compra/venta de items con el fin de poder calcular un márgen de ganancia.
